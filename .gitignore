@@ -6,3 +6,5 @@ builds/**/images/*
 *.mp3
 *.mp4
 *.exe
+*.mod
+*.sum
